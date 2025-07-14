@@ -404,14 +404,6 @@ services:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
-
-For support and questions:
-
-- **Email**: your-email@example.com
-- **Issues**: [GitHub Issues](https://github.com/your-username/orderms/issues)
-- **Documentation**: [Project Wiki](https://github.com/your-username/orderms/wiki)
-
 ## 🙏 Acknowledgments
 
 - Spring Boot Team
